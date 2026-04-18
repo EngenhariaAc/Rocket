@@ -1,0 +1,7 @@
+{
+  "name": "Falcon 9",
+  "type": "Orbital Rocket",
+  "stages": 2,
+  "fuel": "RP-1/LOX",
+  "manufacturer": "SpaceX"
+}
