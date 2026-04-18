@@ -1,0 +1,4 @@
+Rockets operate on Newton's third law of motion.
+
+They are used for space exploration, satellite deployment,
+and scientific research beyond Earth's atmosphere.
